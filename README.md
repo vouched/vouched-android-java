@@ -1,3 +1,4 @@
+*Note* This Java based version of the SDK Example has been superceded by a Kotlin version, which can be found [here](https://github.com/vouched/vouched-android/)
 # Vouched
 
 [![GitHub release](https://img.shields.io/github/release/vouched/vouched-android.svg?maxAge=60)](https://github.com/vouched/vouched-android/releases)
